@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, rgb(199, 179, 143, 0.7), rgba(255, 228, 196, 0.582));
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bolder;
+    padding: 20px;
+}
